@@ -1,50 +1,58 @@
-# hexo-netlify-cms-vercel
+hexo-theme-mellow
+=================
+[![](https://img.shields.io/badge/release-v1.4.4-blue.svg?style=flat-square)](https://github.com/codefine/hexo-theme-mellow/releases)
+[![](https://img.shields.io/badge/document-CN-green.svg?style=flat-square)](https://github.com/codefine/hexo-theme-mellow/wiki)
+[![](https://img.shields.io/badge/preview-Michael.Lu's%20blog-ff69b4.svg?style=flat-square)](https://blog.lujingtao.com)
+[![Join the chat at https://gitter.im/hexo-theme-mellow/Lobby](https://badges.gitter.im/hexo-theme-mellow/Lobby.svg)](https://gitter.im/codefine/hexo-theme-mellow?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-A templete to deploy a **Hexo** blog with **Netlify-CMS** on **Vercel**.
+![mellow](http://blog.lujingtao.com/uploads/show.jpg)
 
-✔ Totally free of charge
+Material Design 风格的Hexo主题，基于 **Hexo 3.0+** & **Node 7.x+** 制作。 **已经被Hexo官方收录**。
 
-✔ Static web pages, no rendering time
+> TODO: Internationalization
 
-✔ Edit online, just as simple as using a dynamic CMS, supported by Netlify-CMS
+## Feature
 
-✔ No local environment required, you can edit your pages on any devices, everywhere
+1. 全端响应式主题。
+2. 添加了英文字体支持 bluehost。
+3. 添加了一些波纹效果。By [Waves](https://github.com/fians/Waves)
+4. 无后端依赖的分享、浏览统计功能实现。
+5. 完美集成valine以及gitment评论系统。
+6. 基于静态数据的站内搜索，无第三方侵入。
+7. 支持文章打赏。
+8. 文章内可引入Github仓库。
+9. 持续更新中... 
 
-✔ Zero coding
+## Document
 
-✔ Preview is supported by Netlify-CMS and Netlify
+[文档 | Document](https://github.com/codefine/hexo-theme-mellow/wiki)
 
-✔ Vercel CDN makes your pages to load quickly from anywhere in the world, including China Mainland
+## ChangeLog
 
-✔ Easy to bind to your domain, and enable SSL encrypt, supported by Vercel
+升级前请仔细查看更改内容，如非必要可不升级。
 
-# Additional improvements
+[ChangeLog](https://github.com/codefine/hexo-theme-mellow/releases)
 
-- Customized 404 page
+## FAQ
 
-# Usage
+初次使用时`hexo g`报错，大部分情况是因为**缺少依赖**，或者依赖版本问题。前往[wiki-主题安装](https://github.com/codefine/hexo-theme-mellow/wiki/1.-%E4%B8%BB%E9%A2%98%E5%AE%89%E8%A3%85)查看如何安装依赖。
 
-1. Click `Use this template` to fork this repository. It can be private.
+打不开tags和categories等页面，是因为这两个页面并不属于hexo初始化范畴，需要手动创建。参考[wiki-菜单](https://github.com/codefine/hexo-theme-mellow/wiki/2.-%E4%B8%BB%E9%A2%98%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE#%E8%8F%9C%E5%8D%95)中*开启与目录中对应页面方法*
 
-1. Modify `/source/admin/config.yml`. Change the value of `backend.repo` and `backend.base_url` to yours.
+## Community
 
-1. Go to [Github Developer applications](https://github.com/settings/developers) and create a new oauth app. The only important field is `Authorization callback URL`, input `https://<domain>/callback`, where `<domain>` is domain from step 2, also note that HTTPS is required. And then generate a new client secret.
+QQ群：527753185
 
-1. Go to [**Vercel**](https://vercel.com/new) to import your repository and create a new project. Before clicking `Deploy` button, add the Environment Variables **`OAUTH_GITHUB_CLIENT_ID`** and **`OAUTH_GITHUB_CLIENT_SECRET`** and set the values as generated in the previous step.
+## Users
 
-1. Click `Deploy` button and waiting for the deployment finished.
+> 下方陈列长期使用mellow主题的博客地址，不定期更新。需要的话请提交issue并附上博客的在线地址。
 
-1. Maybe you need to change the **Vercel** provided domain in *Settings > Domains*.
+[yirufeng's Blog](http://www.sivan.tech) - http://www.sivan.tech
 
-1. Open **`https://<domain>/admin/`** and login to the **Netlify-CMS** back-end.
+[YuanLiChenAi](https://yuanlichenai.cn/) - https://yuanlichenai.cn/
 
-1. Test whether **Netlify-CMS** is working properly.
+[Zip的小窝](https://blog.ourfor.top/) - https://blog.ourfor.top/
 
-1. If you need the preview feature provided by **Netlify-CMS**, that is, provides you a preview link on the article writing page once you click `save` button, you also need to link your blog repository to [**Netlify**](https://app.netlify.com/start). This is similar to link to **Vercel**, but you do not need to add Environment Variables since you do not use **Netlify-CMS** on the **Netlify** provided domain.
+[ZhangQiang's blog](https://zq-jhon.github.io/) - https://zq-jhon.github.io/
 
-1. Congratulations! You have successfully deployed a **Hexo** blog with **Netlify-CMS** on **Vercel**.
-
-
-# Thanks
-
-The oauth gateway for Netlify CMS is implemented by [ublabs/netlify-cms-oauth](https://github.com/ublabs/netlify-cms-oauth).
+[Dandan Rhapsody](https://blog.dandan.tw/) - https://blog.dandan.tw/
