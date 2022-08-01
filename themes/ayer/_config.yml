@@ -23,8 +23,8 @@ subtitle:
   showCursor: true # 是否显示光标
 
 # 网站图标和侧边栏logo
-favicon: /favicon.ico
-logo: /images/ayer-side.svg
+favicon: /shit.ico
+logo: /images/shit.svg
 
 # 封面配置
 # enable-是否启用封面；path-封面背景图；logo-封面logo
@@ -40,7 +40,7 @@ progressBar: true
 broadcast:
   enable: true # true开启，false关闭
   type: 1 # 1：自定义输入，2：一言api(https://hitokoto.cn/)
-  text: wait。 # type为1时有效
+  text: wait. # type为1时有效
 
 # 文章配置
 # 文章太长，截断按钮文字(在需要截断的行增加此标记：<!--more-->)
@@ -135,11 +135,11 @@ music:
 
 # 访问量统计(不蒜子)
 busuanzi:
-  enable: true
+  enable: false
 
 # 友盟cnzz统计(url填js代码src链接)
 cnzz:
-  enable: true
+  enable: false
   url: https://s9.cnzz.com/z_stat.php?id=1278069914&web_id=1278069914
 
 # Google Analytics
