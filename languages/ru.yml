@@ -1,90 +1,38 @@
----
-name: Русский
-title:
-  archive: Архив
-  category: Категория
-  tag: Тэг
-  schedule: Календарь
-menu:
-  home: Главная
-  archives: Архив
-  categories: Категории
-  tags: Тэги
-  about: О сайте
-  search: Поиск
-  schedule: Календарь
-  sitemap: Карта сайта
-  commonweal: Страница 404
-sidebar:
-  overview: Обзор
-  toc: Содержание
+categories: Категории
+search: Поиск
+tags: Метки
+tagcloud: Облако меток
+tweets: Твиты
+prev: Назад
+next: Вперед
+comment: Комментарии
+archive_a: Архив
+archive_b: "Архив: %s"
+page: Страница %d
+recent_posts: Недавние записи
+newer: Следующий
+older: Предыдущий
+share: Поделиться
+powered_by: Powered by %s
+theme: Theme - %s
+rss_feed: RSS-каналы
+category: Категория
+tag: Метка
+site_visitors: Visitors
+page_views: Views
+friends: друзья
+
 post:
-  posted: Размещено
-  edited: Изменено
-  created: Создано
-  modified: Изменено
-  edit: Редактировать запись
-  in: в категории
-  read_more: Читать полностью
-  untitled: Без имени
-  sticky: Ссылка
-  views: Просмотров
-  related_posts: Похожие записи
-  copyright:
-    author: Автор записи
-    link: Ссылка на запись
-    license_title: Информация об авторских правах
-    license_content: "Все записи на этом сайте защищены лицензией %s, если не указано дополнительно."
-footer:
-  powered: "Генератор — %s"
-  total_views: Всего просмотров
-  total_visitors: Всего посетителей
-counter:
-  tag_cloud:
-    zero: Нет тэгов.
-    one: 1 тэг.
-    other: "%d тэгов всего."
-  categories:
-    zero: Нет категорий.
-    one: 1 категория.
-    other: "%d категорий всего."
-  archive_posts:
-    zero: Нет записей.
-    one: 1 запись.
-    other: "%d записей всего."
-state:
-  posts: Архив
-  tags: Тэги
-  categories: Категории
-search:
-  placeholder: Поиск...
-cheers:
-  um: Эм..
-  ok: OK
-  nice: Неплохо
-  good: Хорошо
-  great: Замечательно
-  excellent: Великолепно
-keep_on: Продолжаю писать.
-symbol:
-  comma: ", "
-  period: ". "
-  colon: ": "
-reward:
-  donate: Донат
-  wechatpay: WeChat Pay
-  alipay: Alipay
-  paypal: PayPal
-  bitcoin: Bitcoin
-follow_me:
-  welcome: Добро пожаловать на другие мои издательские каналы
-accessibility:
-  nav_toggle: Показать/скрыть меню
-  prev_page: Предыдущая страница
-  next_page: Следующая страница
-symbols_count_time:
-  count: Кол-во символов в статье
-  count_total: Общее кол-во символов
-  time: Время чтения
-  time_total: Общее время чтения
-  time_minutes: мин.
+  word_count: Количество слов
+  read_time: Время чтения
+  minutes: минут
+  reward: вознаграждение
+  sticky: липкий
+  copyright_title: Авторские права
+  copyright_content: Авторские права принадлежат автору. Для коммерческих перепечаток, пожалуйста, свяжитесь с автором для авторизации. Для некоммерческих перепечаток, пожалуйста, укажите источник.
+
+lock:
+  lock_info: Please enter password
+  lock_error: Incorrect password, please try again
+  confirm_text: Ok
+  cancel_text: Cancel
