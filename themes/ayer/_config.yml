@@ -1,10 +1,10 @@
 # 侧边栏菜单
 menu:
-  主页: /
-  归档: /archives
-  分类: /categories
-  标签: /tags
-  关于我: /2019/about
+  home: /
+  archives: /archives
+  categories: /categories
+  tags: /tags
+  aboutme: /2019/about
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
@@ -114,7 +114,7 @@ click_effect: 3
 # 页面宽度自定义（不建议修改，可能造成布局混乱），article_width文章宽度，sidebar_width侧边栏宽度
 layout:
   article_width: 80rem
-  sidebar_width: 4rem
+  sidebar_width: 6rem
 
 # GitHub Ribbons-封面右上角的forkme，换样式直接在source/images目录下替换forkme图片
 github:
