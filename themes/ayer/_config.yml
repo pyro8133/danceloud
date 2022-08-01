@@ -4,9 +4,6 @@ menu:
   归档: /archives
   分类: /categories
   标签: /tags
-  旅行: /tags/旅行/
-  摄影: http://shenyu-vip.lofter.com
-  友链: /friends
   关于我: /2019/about
 
 # 站点次标题和打字动效
@@ -17,7 +14,7 @@ subtitle:
   text2: 一片以为自己是云的雾 # 滚动播放，如果不需要可以留空
   text3: now you are here, it's 7：43 # 最多支持三段文字
   startDelay: 0 # 延迟时间
-  typeSpeed: 300 # 打字速度
+  typeSpeed: 100 # 打字速度
   loop: true # 是否循环
   backSpeed: 100 # 回退速度
   showCursor: true # 是否显示光标
@@ -127,10 +124,10 @@ github:
 
 # 网易云音乐插件
 music:
-  enable: false
+  enable: true
   # 播放器尺寸类型(1：小尺寸、2：大尺寸)
   type: 1
-  id: 22707008 # 网易云分享的音乐ID(更换音乐请更改此配置项)
+  id: 632689979 # 网易云分享的音乐ID(更换音乐请更改此配置项)
   autoPlay: true # 是否开启自动播放
 
 # 访问量统计(不蒜子)
