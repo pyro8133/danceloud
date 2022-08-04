@@ -69,7 +69,7 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:pense
+category_map:
 tag_map:
 
 # Metadata elements
