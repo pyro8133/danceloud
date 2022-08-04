@@ -5,7 +5,7 @@
 # Site
 title: danceloud的玻璃盒子
 subtitle: ''
-description: '个人网站'
+description: ''
 keywords:
 author: danceloud
 language: en
@@ -100,7 +100,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
