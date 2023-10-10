@@ -53,6 +53,7 @@ language_switcher: false
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
   #since: 2015
+  since: 2022
 
   # Icon between year and copyright info.
   icon:
@@ -66,8 +67,9 @@ footer:
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
 
-  # Powered by Hexo & NexT
+  
   powered: true
+  Powered by Hexo & NexT
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
