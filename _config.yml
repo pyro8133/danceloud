@@ -5,7 +5,7 @@
 # Site
 title: danceloud的玻璃盒
 subtitle: '盒子里是能感知的'
-description: ''
+description: 'contact@1785418133@qq.com'
 keywords:
 author: danceloud
 language: en
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
