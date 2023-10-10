@@ -69,7 +69,7 @@ footer:
 
   
   powered: true
-  Powered by Hexo & NexT
+  # Powered by Hexo & NexT
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
