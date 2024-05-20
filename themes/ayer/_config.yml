@@ -28,7 +28,7 @@ logo: false
 cover:
   enable: true
   path: /images/0.jpg # /source/images目录下附送多张美图，可更换
-  logo: /images/123.svg，如果不要直接设置成false
+  logo: false #/images/123.svg，如果不要直接设置成false
 
 # 页面顶部进度条
 progressBar: true
