@@ -10,24 +10,24 @@ menu:
 # https://github.com/mattboldt/typed.js
 subtitle:
   enable: true # 是否开启动效
-  text: now you are there, it's 7：44 # 显示的文字
-  text2: 一片以为自己是云的雾 # 滚动播放，如果不需要可以留空
-  text3: now you are here, it's 7：43 # 最多支持三段文字
+  text: 盒子里是能感知的 # 显示的文字
+  text2: 复杂、混沌、熵增 # 滚动播放，如果不需要可以留空
+  text3: On ne voit bien qu'avce le cœur  # 最多支持三段文字
   startDelay: 0 # 延迟时间
-  typeSpeed: 100 # 打字速度
+  typeSpeed: 50 # 打字速度
   loop: true # 是否循环
   backSpeed: 50 # 回退速度
   showCursor: true # 是否显示光标
 
 # 网站图标和侧边栏logo
 favicon: /favicon.ico
-logo: /images/shit.svg
+logo: false
 
 # 封面配置
 # enable-是否启用封面；path-封面背景图；logo-封面logo
 cover:
   enable: true
-  path: /images/cover2.jpg # /source/images目录下附送多张美图，可更换
+  path: /images/0.jpg # /source/images目录下附送多张美图，可更换
   logo: false #/images/ayer.svg，如果不要直接设置成false
 
 # 页面顶部进度条
