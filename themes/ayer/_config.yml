@@ -14,9 +14,9 @@ subtitle:
   text2: 复杂、混沌、熵增 # 滚动播放，如果不需要可以留空
   text3: On ne voit bien qu'avce le cœur  # 最多支持三段文字
   startDelay: 0 # 延迟时间
-  typeSpeed: 20 # 打字速度
+  typeSpeed: 5 # 打字速度
   loop: true # 是否循环
-  backSpeed: 50 # 回退速度
+  backSpeed: 20 # 回退速度
   showCursor: true # 是否显示光标
 
 # 网站图标和侧边栏logo
@@ -73,7 +73,7 @@ image_viewer: true
 word_count:
   enable: true
   # 只在文章详情显示(不在首页显示)
-  only_article_visit: true
+  only_article_visit: false
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
@@ -105,7 +105,7 @@ canvas_bg: 1
 
 # 自定义鼠标样式，直接替换/images/mouse.cur文件
 mouse:
-  enable: true
+  enable: false
   path: /images/mouse.cur
 
 # 鼠标点击效果：0-关闭，1-爱心，2-爆炸烟花，3-粒子烟花
