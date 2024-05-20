@@ -14,9 +14,9 @@ subtitle:
   text2: 复杂、混沌、熵增 # 滚动播放，如果不需要可以留空
   text3: On ne voit bien qu'avce le cœur  # 最多支持三段文字
   startDelay: 0 # 延迟时间
-  typeSpeed: 5 # 打字速度
+  typeSpeed: 100 # 打字速度
   loop: true # 是否循环
-  backSpeed: 20 # 回退速度
+  backSpeed: 50 # 回退速度
   showCursor: true # 是否显示光标
 
 # 网站图标和侧边栏logo
@@ -27,7 +27,7 @@ logo: false
 # enable-是否启用封面；path-封面背景图；logo-封面logo
 cover:
   enable: true
-  path: /images/0.jpg # /source/images目录下附送多张美图，可更换
+  path: /images/000.jpg # /source/images目录下附送多张美图，可更换
   logo: false #/images/123.svg，如果不要直接设置成false
 
 # 页面顶部进度条
