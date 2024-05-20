@@ -70,11 +70,6 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-Dairy
-Biology
-Philosophy
-Language
-Engineering
 
 tag_map:
 
