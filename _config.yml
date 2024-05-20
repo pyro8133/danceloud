@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: danceloud的玻璃盒
+title: Astro' Glass Box
 subtitle: '盒子里是能感知的'
-description: 'contact:1785418133@qq.com'
+description: 'a page to show oneself'
 keywords:
-author: danceloud
+author: astro
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://danceloud.vercel.app/
+url: https://dancealoud.vercel.app/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
