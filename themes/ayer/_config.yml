@@ -14,13 +14,13 @@ subtitle:
   text2: 复杂、混沌、熵增 # 滚动播放，如果不需要可以留空
   text3: On ne voit bien qu'avce le cœur  # 最多支持三段文字
   startDelay: 0 # 延迟时间
-  typeSpeed: 50 # 打字速度
+  typeSpeed: 20 # 打字速度
   loop: true # 是否循环
   backSpeed: 50 # 回退速度
   showCursor: true # 是否显示光标
 
 # 网站图标和侧边栏logo
-favicon: /favicon.ico
+favicon: /12.ico
 logo: false
 
 # 封面配置
@@ -28,7 +28,7 @@ logo: false
 cover:
   enable: true
   path: /images/0.jpg # /source/images目录下附送多张美图，可更换
-  logo: false #/images/ayer.svg，如果不要直接设置成false
+  logo: /images/12.svg，如果不要直接设置成false
 
 # 页面顶部进度条
 progressBar: true
@@ -105,7 +105,7 @@ canvas_bg: 1
 
 # 自定义鼠标样式，直接替换/images/mouse.cur文件
 mouse:
-  enable: false
+  enable: true
   path: /images/mouse.cur
 
 # 鼠标点击效果：0-关闭，1-爱心，2-爆炸烟花，3-粒子烟花
