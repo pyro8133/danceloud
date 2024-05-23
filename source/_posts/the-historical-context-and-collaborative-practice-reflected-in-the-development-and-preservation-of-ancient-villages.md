@@ -773,4 +773,60 @@ Reference
 
 4.基于生态博物馆理念下海南黎族村落白查村保护性设计研究_范明琛
 
+
+---------------------------------------------------------------------------------------------
+[Anthropology of Creative Practices](https://stu.chitp.harbourmooc.com/#/course/list/details?id=1663496766346326018&code=2)
+
+课程名称
+人类发展中的文化记忆与创意设计
+题目
+【必做】大作业：个人项目-Project
+截止时间
+2023-08-18 16:00:00
+描述
+【作业题目】：
+Design need to related to the following request (select one of the topic):
+
+1. Analysis of the social organization of 1 chosen creative practice (office organization, material and spatial arrangement, individual and teamwork, the channels of documentary exchange, the spatial routines and epistemic habits, the formats of communication).
+2. Analysis of the process of work of 1 chosen practice with a focus on the media of creativity – models, sketches, software, technologies, etc.
+3. Analysis of the process of work of 1 chosen creative practice with a focus on the collaborations with other professionals, or an exploration of the role of clients, users and communities.
+4. Analysis of the process of generating and organising archives in 1 chosen creative practice, with a focus on the relationship between creative work and archiving.
+5. (optional) Analysis of the effects of Covid-19 on 1 chosen creative practice: how it affected the creative habits, the process of work, the technologies, the patterns of collaboration, the type of projects and users.
+Marking criteria
+
+Individual 2000 Word Essay, excluding references based on research of a particular form of creative practice.
+
+【作业要求】：
+
+Each essay should typically contain 3 parts:
+
+Critical readingof a selected number of books/articles relevant to the chosen topic: i.e. Dana Cuff’s The Story of Practice, or Donald Schon’s The Reflective Practitioner, or another book/article relevant to the chosen topic. In this part, there should be a presentation of key arguments from the readings, quotes, discussion of the author’s arguments and examples. This part should also contain the students’ critical analysis of the readings and their relevance to the current project. Also, formulate the key research questions, aim and objectives of the essay. [ca 500 words]
+
+Empirical part– the chosen case study is presented here on the basis of data from interviews, ethnographic observation or secondary sources (archives, online materials, media reports, visualisations). This part should contain an empirical story to tell in support of the theoretical argument presented in part “1.Critcal reading”. Develop the case study further with images, sketches, diagrams, screenshots from films, etc. [ca 1000 words]
+
+Findings and conclusions– this part should draw conclusions on the basis of the empirical data collected on the case study and discussed in the previous part; the students should be able to situate the findings from part “2. Empirical part” within the literature covered in part “1. Critical reading” and draw conclusions in clear and analytical way. [ca 500 words]
+
+字数要求：英文，至少1000词 至多2500词（字数不包括可能需要的图片，表格以及reference list）
+作业格式：请统一提交word文档，字号12，字体Times New Roman，行距单倍即可
+文件命名格式：学校姓名，中间【不要添加】任何符号，如：开心大学王小二
+提交方式：请在系统中“我的作业” 中找到对应作业，上传word文档
+截止时间：2023年8月18日 16:00
+最终个人项目-Project成绩将由教授与助教共同商议决定，预计于9月份公布。
+
+【评分标准】：
+A  (90-100 points)
+B  (80-90 points)
+C  (70-80 points)
+D  (60-70 points)
+F  (below 60 points)
+
+25% Argument: clear and well-formulated argument, aims and objectives of the essay
+25% Presentation: clear written presentation of the ideas, clear and logical structure
+25% Methodology: clear methodology and presentation of the data collection and analysis
+25% Referencing: good referencing of the secondary sources and the empirical sources
+
+得分 85
+老师评价
+文章选取角度不错，结合具体案例，有自己独特的对古建筑的观察与思考。建议加入大小标题使文章结构更为规范，注意参考文献使用英文格式。
+
 <!--EndFragment-->
