@@ -37,7 +37,7 @@ progressBar: true
 broadcast:
   enable: true # true开启，false关闭
   type: 1 # 1：自定义输入，2：一言api(https://hitokoto.cn/)
-  text: wait. # type为1时有效
+  text: 观察、思考与改变世界的人。An observer, a thinker and an engineer in the world. # type为1时有效
 
 # 文章配置
 # 文章太长，截断按钮文字(在需要截断的行增加此标记：<!--more-->)
@@ -77,7 +77,7 @@ word_count:
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 0
 # 打赏wording
 reward_wording: "请我喝杯咖啡吧~"
 # 支付宝二维码图片地址，跟你设置logo的方式一样。比如：/images/alipay.jpg
@@ -95,7 +95,7 @@ search: true
 
 # RSS订阅(先安装hexo-generator-feed插件，再去博客根目录config进行配置)
 # 不想显示可以直接留空
-rss: /atom.xml
+rss:
 
 # 是否启用黑夜模式开关
 darkmode: false
