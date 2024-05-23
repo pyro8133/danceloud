@@ -4,8 +4,8 @@
 
 # Site
 title: Astro's Glass Box
-subtitle: '盒子里是能感知的'
-description: 'a page to show oneself'
+subtitle: 
+description:
 keywords:
 author: astro
 language: en
@@ -70,6 +70,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+papers
 
 tag_map:
 
