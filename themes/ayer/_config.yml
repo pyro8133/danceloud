@@ -37,7 +37,7 @@ progressBar: true
 broadcast:
   enable: true # true开启，false关闭
   type: 1 # 1：自定义输入，2：一言api(https://hitokoto.cn/)
-  text: 观察、思考与改变世界的人。 # type为1时有效
+  text: 观察、思考与改变世界的人。AN OBSERVER, A THINKER AND AN ENGINNER IN THE WORLD. Contact me:jingruux@gmail.com # type为1时有效
 
 # 文章配置
 # 文章太长，截断按钮文字(在需要截断的行增加此标记：<!--more-->)
