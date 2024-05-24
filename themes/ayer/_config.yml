@@ -4,6 +4,7 @@ menu:
   archives: /archives
   categories: /categories
   tags: /tags
+  aboutme:
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
@@ -36,7 +37,7 @@ progressBar: true
 broadcast:
   enable: true # true开启，false关闭
   type: 1 # 1：自定义输入，2：一言api(https://hitokoto.cn/)
-  text: 观察、思考与改变世界的人。An observer, a thinker and an engineer in the world. contactme: jingruux@gmail.com # type为1时有效
+  text: 观察、思考与改变世界的人。An observer. contactme: jingruux@gmail.com # type为1时有效
 
 # 文章配置
 # 文章太长，截断按钮文字(在需要截断的行增加此标记：<!--more-->)
@@ -86,7 +87,7 @@ weixin: /images/wechat.jpg
 
 # 版权声明
 # 版权声明type设定：0-关闭版权声明； 1-文章对应的md文件里有copyright: true属性，才有版权声明； 2-所有文章均有版权声明
-copyright_type: 2
+copyright_type: 0
 
 # 是否启用搜索
 # 需要安装hexo-generator-searchdb(https://github.com/theme-next/hexo-generator-searchdb)
