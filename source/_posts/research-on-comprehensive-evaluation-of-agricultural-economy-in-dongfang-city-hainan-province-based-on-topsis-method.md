@@ -3,16 +3,16 @@ title: "Research on comprehensive evaluation of agricultural economy in Dongfang
   City, Hainan Province: based on TOPSIS method"
 date: 2023-07-14T21:57:52.150Z
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -62,9 +62,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -643,9 +643,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -661,7 +661,7 @@ w\:* {behavior:url(#default#VML);}
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -669,11 +669,7 @@ Group members: Jingru Xu, Siyu Liu and Qianwen Yang¹
 
 Adviser: Chaoqing Yu, Xiaoshan Zhu and Shengchao Qiao
 
-
-
 **Key Words**   entropy method, agriculture economy, TOPSIS, Dongfang city
-
- 
 
 **Abstract**   This study uses the TOPSIS model to comprehensively assess the level of agricultural economic development in Dongfang City, China. Through the analysis of multiple indicators, the strengths and weaknesses of the current development process are identified, providing policymakers with valuable insights for improvement strategies. By establishing an index system and utilizing data standardization and entropy weight methods, the evaluation scores are calculated and compared with data from Hainan Province. The results show that resource and economic indicators hold greater weight in Hainan Province, while sustainable development and technology indicators have higher weight in Dongfang City. The study provides valuable guidance for evaluating and enhancing agricultural development in the region.
 
@@ -682,8 +678,6 @@ Adviser: Chaoqing Yu, Xiaoshan Zhu and Shengchao Qiao
 The problem we aim to solve is how to comprehensively assess the level of agricultural economic development in a region. The TOPSIS model, a ranking-based research method, is chosen for its ability to closely approximate the ideal solution. By effectively evaluating the target research area using multiple indicators, TOPSIS captures the strengths and weaknesses in the current development process of the evaluation target. This model provides a comprehensive understanding of the region's agricultural economy, aiding policymakers in formulating strategies for improvement. TOPSIS is considered to be a valuable tool for evaluating the development level of the agricultural economy in a region.
 
 Establish an index system consisting of four primary indicators and eight secondary indicators. Standardize the data using z-score, calculate the weights of each indicator using entropy weight method, and then evaluate the scores using topsis analysis. Compare the data with relevant data from Hainan Province to explore the comprehensive evaluation method of agricultural economy in Dongfang City from 2011 to 2021, and provide some development suggestions. We use Literature research method, Quantitative research method and Simulation method.
-
-
 
 **2   MATERIALS AND METHODS**
 
@@ -699,17 +693,13 @@ It has a tropical marine monsoon climate, with abundant sunshine and 
 
 Select common indicators from the aspects of resources, economy, technology, and sustainability to establish the following index system.
 
-![](images/11.png)
+![](https://pic.imgdb.cn/item/6651b7ecd9c307b7e9c46e48.jpg)
 
 (Positive indicators represent maximization-type indicators, indicating that larger values are more favorable.)
-
- 
 
 **2.3   Data Collection**
 
 Then we collected datas for 8 indicators in Dongfang City and Hainan Province from 2011 to 2021.(Data sources: Dongfang City Statistical Yearbook, Hainan Province Statistical Yearbook, Hainan Province Ecological Environment Bulletin.)
-
-
 
 **3   DATA PROCESSING**
 
@@ -719,7 +709,7 @@ Then we collected datas for 8 indicators in Dongfang City and Hainan Province fr
 
 We use z-score for Data standardization. Since the data distribution of Z-score follows a "normal distribution" (N(0,1)), and the "normal distribution" is also known as the "Z distribution", this method is called "Z-score." It is also known as zero-mean normalization, standard score, or Z-value. It’s applicable to most statistical models.
 
-![](images/22.png)
+![](https://pic.imgdb.cn/item/6651b76ed9c307b7e9c3e152.jpg)
 
 (μ is the mean of the data set, σ is the standard deviation of the data set, Z is the standard score.)
 
@@ -755,8 +745,6 @@ Distance to the positive ideal solution: **d+i = √(∑((xij - A+j)2×wj))**
 
 Distance to the negative ideal solution: **d-i = √(∑((xij - A-j)2×wj))**
 
-
-
 **Xij** represents the normalized value of decision option **i** on criterion **j, wj** represents the weight of criterion **j, A+j** represents the value of the positive ideal solution on criterion **j**, and **A-j** represents the value of the negative ideal solution on criterion **j**.
 
 **Calculate the composite evaluation index of decision options:**
@@ -771,37 +759,27 @@ Sort the decision options: Sort the decision options in descending order based o
 
 The calculation formula of TOPSIS in the entropy weight TOPSIS method helps to comprehensively consider the weights of evaluation criteria and the distances between decision options and the positive/negative ideal solutions. This provides more accurate decision-making and evaluation results.
 
-
-
 **4   RESULT PRESENTATION AND ANALYSIS**
 
-![](images/33.png)
+![](https://pic.imgdb.cn/item/6651b76fd9c307b7e9c3e228.jpg)
 
 **1Hainan and Dongfang various types of indicator weights**
 
- 
-
 Resource indicators and economic indicators have a higher weight in Hainan Province(figure 1), while sustainable development indicators and technology indicators have a higher weight in Dongfang City.
 
-![](images/44.png)
+![](https://pic.imgdb.cn/item/6651b7ecd9c307b7e9c46d8c.jpg)
 
  **2Hainan and Dongfang city comparative comprehensive evaluation**
-
- 
 
 The agricultural economy in Dongfang City has maintained a stable state, while in Hainan Province, it showed a declining trend from 2011 to 2017 and an upward trend from 2017 to 2019(figure 2).
 
 According to relevant information, in 2016, adjustments were made to the red line of cultivated land, which slowed down the abandonment rate in Hainan Province due to factors such as urbanization progress, high farming costs for farmers, and unique natural disasters. However, as a major agricultural city, Dongfang City has the second-largest cultivated land area in the province and is less affected by these factors.
 
-![](images/55.png)
+![](https://pic.imgdb.cn/item/6651b76bd9c307b7e9c3de1e.jpg)
 
 **3Sowing area of Hainan Province in 2012-2021** 
 
-
-
 Analyzing the indicator of cultivated land area, which have the highest weight(figure 3).From 2012 to 2015, agricultural acreage remained relatively stable, then experienced a rapid decline from 2015 to 2018, followed by a slow decline from 2018 to 2021. The faster the arable land decreased, the lower the score.This is agree with the trend of comprehensive analysis in Hainan Province.
-
- 
 
 **5   DISCUSSION**
 
@@ -811,15 +789,11 @@ The selection of indicators relies on experience. The importance of different in
 
 These data can provide deeper insights through further processing and analysis. For example, correlation analysis can be conducted to calculate the correlation coefficients between indicators in order to understand their relationships. For instance, analyzing the relationship between regional GDP and sown area or cultivated land area, or the relationship between per capita income of farmers and rural electricity consumption. Predictive analysis can be performed by using historical data to establish models for predicting future trends in agricultural development. For example, using data from the past few years to forecast the possible level of per capita income for farmers in the future.
 
-
-
 **6   TAKEWAYS FROM THE COURSE**
 
 We realized the importance of determining the topic and went through adjustments and refinements. Through field research, we learned to explore the era through details in daily life and became familiar with the reimbursement process. Additionally, we recognized the importance of teamwork and gained proficiency in basic data collection and processing methods (yearbooks, Matlab, etc.). We have gained a basic understanding of the agricultural development level in Dongfang City, Hainan Province and experienced the practical application of professional knowledge (z-score).
 
 Thanks to all the teachers of this course, thanks to all the members of our group, and thanks to all the classmates in the class. Thanks to the developers of Matlab , thanks to the contributors on CSDN, and thanks to the data statisticians. Thanks to everyone who has provided assistance for this project.
-
- 
 
 **Author contributions**
 
