@@ -2,16 +2,16 @@
 title: The Lab Beside The Garden And The Root Under The Microscope
 date: 2024-05-13T21:10:34.089Z
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -61,9 +61,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -642,9 +642,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -668,36 +668,26 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1032"/>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
+ </o:shapelayout></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
- 
-
-# <!--\[if !supportLists]-->1. <!--\[endif]-->Introduction
-
-
+# <!--\\[if !supportLists]-->1. <!--\\[endif]-->Introduction
 
 The Reasearch Training course supposes the student applying the education given knowledge and skills in working life to gain hands-on experience. The work is preprocessing of root samples for future microbiome analyses, the samples have been collected in Savukoski, NE Finland, in October 2012. The species I have dealed with inclues *Calluna vulgaris , Empetrum, Vaccinium,* and *Deschampsia flexuosa*.
 
- 
-
-# <!--\[if !supportLists]-->2. <!--\[endif]-->Given Knowledge And Skills - My Background Information
-
-
+# <!--\\[if !supportLists]-->2. <!--\\[endif]-->Given Knowledge And Skills - My Background Information
 
 I’m an undergraduate in my junior year, my major is Ecology and my home university located in the southernmost part of China, a beautiful tropical island. We also have a quite big botanical garden (about 100 hectares) nearby our campus (around 15 min walking).
-
- 
 
 The related course I had before are:
 
@@ -708,75 +698,45 @@ The related course I had before are:
 * Molecular Ecology and Molecular Ecology Experiment - how will the sample be processed afterwards and the meaning of it;
 * Soil Science - the interaction between roots and soil, e.g. soil microenviroment.
 
- 
-
 And I have attended a summer field work in 2022, which is a carbon sink research in the rainforest. My work was recording the grass sample plot and collecting the grass, so it’s like prework for labwork, however, not collecting the root but the part above ground.
 
-![](images/9.jpg)
+![](https://pic.imgdb.cn/item/6651b838d9c307b7e9c4d18c.jpg)
 
 My supervisor in my home university is in the field of moss, and I did see a lot of them in this labwork experience. Followed my supervisor’s advice, I borrowed two books from the library, I identied the following three with the help of another book, from the page 43, which suggests they grows in the fresh forest (the first two are quite common, the last one I have only seen it once but it’s quite elegent so I put it here. )( and I hope they are correct.)
 
-![](images/微信图片_20240521191542.png)
+![](https://pic.imgdb.cn/item/6651ba21d9c307b7e9c7309f.jpg)
 
-
-
-# <!--\[if !supportLists]-->3. <!--\[endif]-->Hands-On Experience - What I Have Learned From The Practice
-
-
+# <!--\\[if !supportLists]-->3. <!--\\[endif]-->Hands-On Experience - What I Have Learned From The Practice
 
 To be honest it’s a labwork but I didn’t feel like working in the lab, not strict at all, without lab gloves and labcoats, not necessary to tie hair, the instrument measurement isn’t precise, without danger/special reagents. So the difference between daily life and lab work became blurry, it recalled me of my childhood, I also liked to collect all kinds of newborn plants and moved them to a single box for each of them, then took care of them and observed. But I didn’t have human-controlled environment and recording at that time, let alone the technique things.
 
- 
-
 Patience. The cleaning of each sample and how long is the long term project (it really shocked me that the samples were collected 12 years ago) . As in the first day I wrote in my dairy “The content is very specific, felt peaceful and relaxed when clean them.” But 50h later I wrote “The last species seems less interesting than the first three. The soil environment is much more monotonous, and the root almost hasn't undergone any changes.(visually)” Then the dairy was shorter and shorter and only the hours in the end.
-
-
 
 Conception and Reality. The complexity of reality, conception is just a classification. As I wrote in the first few days “Although I have studied pedology and know how complicate it formed, I still wanted to regard it as a simple material, but I kept remind myself: the soil isn’t just soil, it’s from dead stones, plants and so many things.” Also as the teacher mentioned before, the new root is growing and the old root is dying, everything is happening in the same time.
 
- 
-
 Flexibility. It’s also why this labwork isn’t so strict I think. I wrote “Soil is so close to the root, makes it hard to divide them. My finger is gentle but hard to be accurate, the knife is sharp but accurate. If you want to divide soil and root, it will make the root into smaller pieces, pick or not? The amount and cleanness counts (e.g. for PCR) but it would take a lot of time.” And I have also studied the ME (Measurement Error) in another course here (Functional Animal Ecology), I think we can’t really get rid of it cause we are trying to describe the beings in humain language, which is a dimensionality reduction.
 
- 
+# <!--\\[if !supportLists]-->4. Extension - What I Have Studied From The Papers
 
-# <!--\[if !supportLists]-->4. Extension - What I Have Studied From The Papers
-
-
-
-![](images/10.jpg)
+![](https://pic.imgdb.cn/item/6651b7ecd9c307b7e9c46e09.jpg)
 
 The Piloderma helped me open the door. I borrowed this book but sadly the English is too professional to me so I just checked the catalog (Genetics and Molecular Biology, Structure, Funtion, Biotechnology, Ecophysiology, Systematics) and all the images inside (tables, patterns, photos). These tables and patterns look very similar to what I have in my textbooks and experiments classes, but all in the specific field. And luckily from the photos I found some simliar one (not all due to the magnification factor), and for the previous question 2 (The hard, spherical, removable little thing attached on root, what are they? They are from plant/fungi or from soil? ) I would like to say
 
 that they are spores. (If it’s not too big for them)
 
-![](images/11.jpg)
+![](https://pic.imgdb.cn/item/6651baded9c307b7e9c7eccd.jpg)
 
-
-
-![](images/12.jpg)
-
-
+![](https://pic.imgdb.cn/item/6651b7ebd9c307b7e9c46cda.jpg)
 
 And I also checked some papers, trying to understand some basic conceptions and find out the next steps in the research. Mycorrhiza can be defined as a symbiotic association between a fungus and plant root. Several factors infect the distribution of mycorrhiza like location, soil, host plants and neighbor plants. The following steps might be:
 
- 
-
 Root samples for analysis of AM fungal colonization rate were stored in ethanol and later stained with trypan blue (Phillips & Hayman 1970).
-
- 
 
 Mycorrhizal root colonization rate was assessed under a light transmission microscope using the gridline intersection method (McGonigle et al. 1990) (I, II, V)
 
- 
-
 AM fungal community in the seedling roots (III) was analyzed using the terminal restriction fragment length polymorphism (T-RFLP) method (Liu et al. 1997). With this method AM fungal taxa are identified by the differences in their small sub-unit (SSU) rRNA (Helgason et al. 1999)
 
- 
-
-# <!--\[if !supportLists]-->5. <!--\[endif]-->Conclusion And Acknowledgements
-
-
+# <!--\\[if !supportLists]-->5. <!--\\[endif]-->Conclusion And Acknowledgements
 
 I have gained a lot. Thank for the followings: The exchange chance which University of Oulu and HAINAN UNIVERSITY have provided together, my parents’ support, Mrs. Ruotsalainen’s teaching and kindness, Valentine’s help, the cleanness of the trash can and the WC (My favourite WC, it’s spacious and the dry flowers are fragrant), the janitor(?) who opened the door for us every time and made the e-card without any charges, the builders and keepers of the garden made me feel like back to the tropic (humid and hot) even in wintertime, everyone hasn’t been mentioned above and myself.
 
@@ -788,11 +748,7 @@ Part of the e-mail reply
 
 The report looks really good! My sincere thanks for your kind words- I will pass the information for the garden staff too when I will be there (after 1. June). I am especially impressed about your ability to find and correctly name the moss species! From my side I have to apologize that my leave of absence took place during your project work, it made everything a bit too hectic. However, both you and Valentine managed really well, for which I am really thankful.
 
-
-
 The material (as it is old) was a bit extra from Natural Resources Institute project and we did not have proper funding to process and analyse its although we were able to utilize the experimental treatments and our team was able to collect samples - this is to explain the longevity of the project. However, there is one Ms thesis made of this material in 2021 (unfortunately it is in Finnish), and Dr Karoliina Huusko is leading bioinformatics and statistics analysis of first set of samples (ongoing, aside of her other work at the university).
-
-
 
 Thus, from my side the report and credits are ok!
 
