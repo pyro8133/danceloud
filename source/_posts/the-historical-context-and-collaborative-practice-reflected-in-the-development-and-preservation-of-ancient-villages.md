@@ -3,13 +3,13 @@ title: The historical context and collaborative practice reflected in the
   development and preservation of ancient villages
 date: 2023-08-18T20:53:00.000Z
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +58,9 @@ date: 2023-08-18T20:53:00.000Z
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -639,9 +639,9 @@ date: 2023-08-18T20:53:00.000Z
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -665,105 +665,61 @@ date: 2023-08-18T20:53:00.000Z
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 “History insists that buildings are part of our cultural heritage, reflecting our collective concerns, yet historians are typically reluctant to suggest that buildings might have been born from a collective conception. This book examines how buildings may be collectively conceived; that is, it considers architec ture as a social construction. It is my hope that such an understanding, along with the attempt to work more effectively in the collective endeavor of architecture, will guide us toward making better environments.” I have chosen two perspectives - historical context and collaborative practice in Dana Cuff’s “The story of Practice” to analyze the development and preservation of Bai Cha Village, located in Hainan, China, which is home to the Li ethnic minority.
 
- 
-
 The book delves into the historical context of architectural practice, tracing its roots from the Renaissance to the present day. It examines how social, economic, and political factors have shaped architectural practice over time. Architectural practice is not solely a technical endeavor but rather a socially constructed process. This means that the way architecture is practiced is influenced by cultural, economic, and political factors. Furthermore, Architects do not work in isolation; they collaborate with various stakeholders, including clients, contractors, and communities. Cuff discusses the increasing trend of collaborative practice in architecture. She explores how architects work with other professionals, stakeholders, and the public to create meaningful and inclusive spaces. Collaboration with communities and clients emerges as a key aspect of architectural practice, enabling architects to design spaces that address the specific needs, aspirations, and cultural contexts of the people who will inhabit them.
-
- 
 
 Bai Cha Village is located within the boundaries of Jiangbian Township in Dongfang City, in the western part of Hainan Province, China. It is situated in a small flat basin surrounded by mountains and is known for its 81 remaining boat-shaped houses, making it one of the most well-preserved natural villages with boat-shaped houses in Hainan. Bai Cha Village is a settlement area of the Li ethnic minority, who speak the Meifu dialect. As one of the 55 ethnic minorities in China, the Li people have a long history of inhabiting the southern islands of China, including Hainan, and are considered the earliest indigenous inhabitants of Hainan Province.
 
- 
-
 The low and boat-shaped houses represent a unique architectural style. They were developed over generations, as people sought to improve their living environment and adapt to the natural surroundings. These houses are often referred to as "architecture without architects" as they were built based on accumulated experiences of living in the area. In terms of construction materials, the boat-shaped houses in Bai Cha Village are traditional bamboo and wood structures. They are called "boat-shaped" due to their appearance resembling an inverted boat. The architectural structure and regional decorations are combined harmoniously, showcasing the rich cultural characteristics of the local ethnic group and reflecting the Li people's aesthetic views of naturalism and utilitarianism. Today, the boat-shaped houses are known as the "Guardians of the Li ethnic spirit's homeland."
-
- 
 
 The book "The Li Ethnic Group in Hainan Island: A Study of Southern Ethnicity" written by German anthropologist H. Stabel is an authoritative work on the historical and cultural research of the Li ethnic group. This book is the result of the author's field research conducted during two visits to the Li ethnic areas of Hainan Island between 1931 and 1932. It provides detailed and objective documentation of the customs, traditions, life skills, and social activities of the Li people, offering valuable data and information on traditional Li dwellings in the early 20th century. In 1937, American filmmaker Clark produced a silent black and white documentary film titled "Beyond the Red Mountain in Hainan," which vividly depicted the lifestyle and environmental scenes of Li ethnic villages, including the White Sand Beauty Peak (Xianpoling) over 80 years ago. In August 2005, the late American expert on Hainan, Goldberg Eric, donated this precious documentary resource to the Hainan Provincial Ethnology Society. In October of the following year, he also donated 26 valuable old photographs depicting the social life of the Li and Miao ethnic groups to the same society.
 
- 
-
 During my visit on June 25, 2023, to Bai Cha Village, I observed that the houses were in good condition, but the village was no longer inhabited. Local high school students were visiting the village, likely for educational purposes. In an effort to blend modern facilities with the local environment, measures such as fire extinguisher cabinets and signage had been implemented. Furthermore, new replica buildings had been constructed in the village.
 
-
-
-![](images/5.jpg)
+![](https://pic.imgdb.cn/item/6651b839d9c307b7e9c4d1c5.jpg)
 
 The appearance of Bai Cha Village settlement
 
- 
-
-![](images/6.jpg)
+![](https://pic.imgdb.cn/item/6651b839d9c307b7e9c4d202.jpg)
 
 The exterior of the walls showcases natural textures and patterns
 
- 
-
-![](images/7.jpg)
+![](https://pic.imgdb.cn/item/6651b839d9c307b7e9c4d243.jpg)
 
 The integration of modern fire safety measures can be seen throughout the village
 
- 
-
-![](images/8.jpg)
+![](https://pic.imgdb.cn/item/6651b839d9c307b7e9c4d287.jpg)
 
 The second project from the 2011 Li Ethnic Boat-shaped House Construction Training Class
 
-
-
 Throughout its historical development, the boat-shaped houses have undergone significant changes due to the ethnic and social progress. In the past, the Li ethnic minority lived a nomadic lifestyle as they were engaged in basic primitive agriculture. They would move their homes according to the shifting cultivation locations to protect themselves from wild animals by constructing "high fences." However, with the development of terrace farming, population growth, and the establishment of settled communities, the Li people gradually began to settle in one place, forming permanent villages. As the threat of wild animals decreased over time, separate enclosures were built for livestock, allowing the original "high fences" to be shortened into low wooden fences. Thus, the "high fences" evolved into "low fences" as their original purpose became obsolete.
-
- 
 
 The evolution of Li ethnic residential architecture has been influenced by the Han ethnic group over time. A typical representative of this influence is called the "Jinziwu" (Golden Character House). The advantages of the Jinziwu style include saving labor and materials, good ventilation and lighting. Its floor plan is rectangular, and the roof adopts a pyramid shape instead of the original boat-shaped arch. The eaves on the front and back have been raised, which is beneficial for opening doors and windows. In other regions of Hainan, most villages have adopted the brick-and-tile style of the Han ethnic group. Currently, around 40% of households in Li ethnic areas live in brick-and-tile houses (as of 1989).
 
- 
-
 The boat-shaped houses are characterized by their low and narrow dimensions, resulting in dark and enclosed interior spaces. The use of local low-tech materials limited the functionality of the boat-shaped houses, leading to cramped living spaces. Few windows were incorporated into the walls, resulting in poor natural lighting and ventilation. This lack of windows was influenced by Li cultural customs aimed at preventing "evil spirits" from entering, as well as limitations in wall height and materials. With the rapid socioeconomic development, urbanization, and the introduction of new lifestyles, the traditional architectural spaces of boat-shaped houses no longer meet the requirements of modern people. In the face of changing times, the inherent limitations of boat-shaped houses can no longer be ignored.
-
- 
 
 In 2005, Bai Cha Village was included in the government's housing renovation plan. The original plan involved demolishing all 81 boat-shaped houses and replacing them with brick-and-tile houses for the villagers. However, due to the efforts and advocacy of individuals involved in folk culture and intangible cultural heritage preservation, and with the strong support of relevant government departments, the boat-shaped houses were not only preserved but also declared as an intangible cultural heritage protection project. The government of Dongfang City implemented a relocation plan, moving over 80 households to a new village site. During a village meeting, the majority of the villagers agreed to move to the new Bai Cha Village, located approximately 1 kilometer away from the old village. Although the new houses were simple thatched huts, the villagers were accustomed to and attached to their old way of life. Some elderly residents expressed, "Brick-and-tile houses are good, but we are used to living in thatched huts. This is our home."
 
- 
-
 After being hollowed out, Bai Cha Village has transformed into a "formaldehyde-like" museum. Once a traditional settlement loses its human use and life, it loses its original vitality and can only exist as a patched-up specimen. The soul of architecture does not solely reside in its pure form but, more importantly, in the deep culture it conveys. The concept of an "Eco-museum" originated from Georges Henry Riviera and Hugues de Varine, founders of the French museum field in the 1970s, with the aim of "protecting the ecological diversity of ethnic folk culture." Mr. Su Donghai, the father of Chinese ecological museums, defined the theory of "ecological museum" as "protecting within the original ecological environment of cultural heritage, maintaining the authenticity of the landscape, and emphasizing unique concepts such as 'in situ, holistic, self, and dynamic preservation.'"
-
- 
 
 In 2012, the Dongfang City Bureau of Culture and Sports not only established a protection group for boat-shaped houses but also formulated relevant protection plans. Through these efforts, the traditional buildings in Bai Cha Village have been successfully numbered and protected. Efforts have been made to organize and mobilize the villagers of ethnic minority villages to conduct training in boat-shaped house construction skills, thus enhancing the level of skill inheritance. Additionally, relevant departments in Dongfang City have procured fire extinguishers and hired administrators. Although a newly constructed mountain road now leads directly to Bai Cha Village, the winding and distant journey still limits the number of visitors. Tourism brings significant economic benefits, and a strong economic foundation is the most important cornerstone for the sustainable development and self-reliance of Bai Cha Village.
 
- 
-
 During the process of developing the protection plan, there was a continuous and dynamic interaction among various stakeholders, including the government, developers, villagers, individuals involved in folk culture and intangible cultural heritage preservation, and experts. This collaborative effort aimed to strike a delicate balance between the roles of managers, capital holders, users with utilitarian and aesthetic considerations, and builders. While architecture is often associated with architects, it is important to recognize that the creation of architecture is a comprehensive endeavor influenced by a multitude of factors and requires the collective efforts of many individuals.
-
- 
 
 At its core, architecture originates from the fundamental need to construct habitable spaces. However, as society has become more complex, the division of labor has led to the separation of technical professionals, users, and capital. Nevertheless, the practice of architecture necessitates their eventual collaboration and cooperation. The multifaceted nature of architecture transcends the sole involvement of architects. It involves a constant tug-of-war between various factors, such as cultural, economic, and social influences, as well as the collective input of those involved in the process.
 
- 
-
 The development of a protection plan for Bai Cha Village exemplifies the intricate interplay between different stakeholders. The government plays a crucial role in providing guidance and regulations to ensure the preservation of cultural heritage. Developers contribute their expertise and resources to implement sustainable and respectful interventions. Villagers, as the custodians of their own heritage, actively participate in decision-making processes and provide valuable insights based on their lived experiences. Individuals dedicated to folk culture and intangible cultural heritage preservation advocate for the safeguarding of traditional practices and knowledge. Experts bring their specialized knowledge and technical skills to navigate the complexities of architectural conservation.
-
- 
 
 In this collaborative process, the goal is to strike a balance between preserving the cultural integrity and historical significance of Bai Cha Village while accommodating the evolving needs and aspirations of the community. The collective efforts of all stakeholders aim to ensure that the protection plan respects the intrinsic value of the village, its cultural heritage, and the well-being of its inhabitants.
 
- 
-
 Therefore, while the term "architecture" may initially evoke the image of architects, it is essential to recognize that architecture is a comprehensive entity shaped by a myriad of factors and the collective contributions of diverse individuals, including not only architects but also the wider community and various stakeholders involved in the process.
 
- 
-
 Reference
-
- 
 
 1.The story of practice_Dana Cuff
 
@@ -773,8 +729,8 @@ Reference
 
 4.基于生态博物馆理念下海南黎族村落白查村保护性设计研究_范明琛
 
+- - -
 
----------------------------------------------------------------------------------------------
 [Anthropology of Creative Practices](https://stu.chitp.harbourmooc.com/#/course/list/details?id=1663496766346326018&code=2)
 
 课程名称
@@ -792,7 +748,7 @@ Design need to related to the following request (select one of the topic):
 3. Analysis of the process of work of 1 chosen creative practice with a focus on the collaborations with other professionals, or an exploration of the role of clients, users and communities.
 4. Analysis of the process of generating and organising archives in 1 chosen creative practice, with a focus on the relationship between creative work and archiving.
 5. (optional) Analysis of the effects of Covid-19 on 1 chosen creative practice: how it affected the creative habits, the process of work, the technologies, the patterns of collaboration, the type of projects and users.
-Marking criteria
+   Marking criteria
 
 Individual 2000 Word Essay, excluding references based on research of a particular form of creative practice.
 
@@ -800,11 +756,11 @@ Individual 2000 Word Essay, excluding references based on research of a particul
 
 Each essay should typically contain 3 parts:
 
-Critical readingof a selected number of books/articles relevant to the chosen topic: i.e. Dana Cuff’s The Story of Practice, or Donald Schon’s The Reflective Practitioner, or another book/article relevant to the chosen topic. In this part, there should be a presentation of key arguments from the readings, quotes, discussion of the author’s arguments and examples. This part should also contain the students’ critical analysis of the readings and their relevance to the current project. Also, formulate the key research questions, aim and objectives of the essay. [ca 500 words]
+Critical readingof a selected number of books/articles relevant to the chosen topic: i.e. Dana Cuff’s The Story of Practice, or Donald Schon’s The Reflective Practitioner, or another book/article relevant to the chosen topic. In this part, there should be a presentation of key arguments from the readings, quotes, discussion of the author’s arguments and examples. This part should also contain the students’ critical analysis of the readings and their relevance to the current project. Also, formulate the key research questions, aim and objectives of the essay. \[ca 500 words]
 
-Empirical part– the chosen case study is presented here on the basis of data from interviews, ethnographic observation or secondary sources (archives, online materials, media reports, visualisations). This part should contain an empirical story to tell in support of the theoretical argument presented in part “1.Critcal reading”. Develop the case study further with images, sketches, diagrams, screenshots from films, etc. [ca 1000 words]
+Empirical part– the chosen case study is presented here on the basis of data from interviews, ethnographic observation or secondary sources (archives, online materials, media reports, visualisations). This part should contain an empirical story to tell in support of the theoretical argument presented in part “1.Critcal reading”. Develop the case study further with images, sketches, diagrams, screenshots from films, etc. \[ca 1000 words]
 
-Findings and conclusions– this part should draw conclusions on the basis of the empirical data collected on the case study and discussed in the previous part; the students should be able to situate the findings from part “2. Empirical part” within the literature covered in part “1. Critical reading” and draw conclusions in clear and analytical way. [ca 500 words]
+Findings and conclusions– this part should draw conclusions on the basis of the empirical data collected on the case study and discussed in the previous part; the students should be able to situate the findings from part “2. Empirical part” within the literature covered in part “1. Critical reading” and draw conclusions in clear and analytical way. \[ca 500 words]
 
 字数要求：英文，至少1000词 至多2500词（字数不包括可能需要的图片，表格以及reference list）
 作业格式：请统一提交word文档，字号12，字体Times New Roman，行距单倍即可
