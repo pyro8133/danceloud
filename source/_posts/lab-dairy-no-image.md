@@ -1,5 +1,5 @@
 ---
-title: LAB DAIRY( no image)
+title: LAB DAIRY (images removed)
 date: 2024-04-16T00:30:03.702Z
 ---
 Part Ⅰ
