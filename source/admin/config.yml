@@ -2,7 +2,7 @@ backend:
   name: github
   repo: pyro8133/danceloud # Path to your Github/Gitlab repository
   branch: main # Branch to update
-  base_url: https://astrosbox.com
+  base_url: https://danceloud.vercel.app
   
 
 # These lines should *not* be indented
