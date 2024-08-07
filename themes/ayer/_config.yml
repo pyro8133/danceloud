@@ -9,7 +9,7 @@ menu:
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
 subtitle:
-  enable: false # 是否开启动效
+  enable: true # 是否开启动效
   text: 盒子里是能感知的 # 显示的文字
   text2: 复杂、混沌、熵增 # 滚动播放，如果不需要可以留空
   text3: On ne voit bien qu’avce le cœur  # 最多支持三段文字
